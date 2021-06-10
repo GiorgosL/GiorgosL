@@ -4,3 +4,7 @@
 <a href="https://github.com/GiorgosL">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GiorgosL&layout=compact&theme=radical" />
 </a>
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiorgosL&repo=github-readme-stats)](https://github.com/GiorgosL/github-readme-stats)
