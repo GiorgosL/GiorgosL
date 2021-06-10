@@ -7,4 +7,4 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiorgosL&repo=Python-IMDB-sentiment-analysis)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiorgosL&repo=Python-IMDB-sentiment-analysis&theme=radical)](https://github.com/GiorgosL/Python-IMDB-sentiment-analysis)
